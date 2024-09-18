@@ -17,13 +17,13 @@ Sigue los siguientes pasos para configurar y ejecutar el proyecto:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/Daniel349167/Crud_Productos_frontend.git
    ```
 
 2. Entra en la carpeta del proyecto:
 
    ```bash
-   cd tu_repositorio
+   cd Crud_Productos_frontend
    ```
 
 3. Instala las dependencias del proyecto:
@@ -65,5 +65,6 @@ A continuación se muestran algunas capturas de pantalla de la aplicación:
 
 ![image](https://github.com/user-attachments/assets/c211b0c6-ac33-47bc-8fd2-833dc908d0e9)
 
-![image](https://github.com/user-attachments/assets/5c1caef8-842c-49c6-85f1-367d2c952704)
+![image](https://github.com/user-attachments/assets/58957216-ff8c-49bf-8fbe-bb2980333575)
+
 
